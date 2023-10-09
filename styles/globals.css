@@ -105,3 +105,14 @@ a {
     color-scheme: dark;
   }
 }
+
+
+#container{
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: white !important;
+  color: black !important;
+}
